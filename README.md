@@ -26,7 +26,7 @@ Ideal for learning graph theory, algorithms, and academic experiments.
 ## 🔗 Links
 
 - 🎬 **Demo**: *(coming soon)*  
-- 📁 **Main Script**: [`grafos_gui.py`](./grafos_gui.py)  
+- 📁 **Main Script**: [`grafos_gui.py`](./graph_gui.py)  
 - 📄 **License**: [MIT License](https://opensource.org/licenses/MIT)
 
 ---
@@ -92,7 +92,7 @@ Perfeito para fins acadêmicos, aprendizado e simulações.
 ## 🔗 Links
 
 - 🎬 **Demonstração**: *(em breve)*  
-- 📁 **Arquivo principal**: [`grafos_gui.py`](./grafos_gui.py)  
+- 📁 **Arquivo principal**: [`grafos_gui.py`](./graph_gui.py)  
 - 📄 **Licença**: [Licença MIT](https://opensource.org/licenses/MIT)
 
 ---

@@ -4,6 +4,7 @@
 - [📌 About the Project](#-about-the-project)  
 - [🔗 Links](#-links)  
 - [🚀 Technologies](#-technologies)  
+- [⚙️ Installation](#-installation)  
 - [📱 Responsiveness](#-responsiveness)  
 - [🎯 Purpose](#-purpose)  
 - [📝 License](#-license)  
@@ -40,6 +41,31 @@ Ideal for learning graph theory, algorithms, and academic experiments.
 
 ---
 
+## ⚙️ Installation
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/luizmendes05/graph-algorithms-gui.git
+cd graph-algorithms-gui
+```
+
+2. **Install the dependencies**:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run the application**:
+
+```bash
+python graph_gui.py
+```
+
+> 💡 Note: `tkinter` usually comes bundled with Python, but if not, you'll need to install it manually (especially on some Linux distributions).
+
+---
+
 ## 📱 Responsiveness
 
 ✔️ Fullscreen, scrollable layout  
@@ -71,6 +97,7 @@ Licensed under the [MIT License](https://opensource.org/licenses/MIT).
 - [📌 Sobre o Projeto](#-sobre-o-projeto)  
 - [🔗 Links](#-links-1)  
 - [🚀 Tecnologias](#-tecnologias)  
+- [⚙️ Instalação](#-instalação)  
 - [📱 Responsividade](#-responsividade)  
 - [🎯 Objetivo](#-objetivo)  
 - [📝 Licença](#-licença)  
@@ -103,6 +130,31 @@ Perfeito para fins acadêmicos, aprendizado e simulações.
 - Tkinter (interface gráfica)
 - NetworkX (lógica de grafos)
 - Matplotlib (renderização visual)
+
+---
+
+## ⚙️ Instalação
+
+1. **Clone o repositório**:
+
+```bash
+git clone https://github.com/luizmendes05/graph-algorithms-gui.git
+cd graph-algorithms-gui
+```
+
+2. **Instale as dependências**:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Execute o aplicativo**:
+
+```bash
+python graph_gui.py
+```
+
+> 💡 Obs.: `tkinter` geralmente já vem com o Python. Caso contrário, será necessário instalá-lo manualmente (especialmente no Linux).
 
 ---
 
